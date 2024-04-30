@@ -1,1 +1,103 @@
-theme = 'split'
+# Site settings
+baseURL = "https://example.com"
+languageCode = "en-US"
+title = "Brian Cain - Software Engineer"
+theme = "split"
+disableKinds = ["section", "taxonomy", "RSS", "sitemap"]
+disableHugoGeneratorInject = true
+
+# Local preview mode
+relativeURLs = true
+uglyURLs = true
+
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = ""
+
+# Copyright
+copyright = "&copy;2024 Brian Cain"
+
+[params]
+
+  # Metadata for search engines and social sharing
+  author = "Brian Cain"
+  description = "My personal website, portfolio, and social links landing page."
+  shareImage = "images/social.jpg"
+  twitterHandle = "briancain"
+
+  # Favicon
+  favicon = "favicon.ico"
+
+  # Section - Visual
+  [params.visual]
+
+    # Image
+    [params.visual.image]
+      enable = true
+      file = "images/me-mnt.jpg"
+      position = "bottom left"
+
+    # Video
+    [params.visual.video]
+      enable = false
+      mute = true
+      file = "videos/background.mp4"
+      # youtubeId = "dk9uNWPP7EA"
+
+  # Links
+  #
+  # Links List #1
+  [[params.links]]
+    [params.links.list1]
+      heading = "Connect"
+
+      [[params.links.list1.link]]
+        text = "LinkedIn"
+        url = "https://www.linkedin.com/in/briancain1/"
+        new_tab = true # new tab
+
+      [[params.links.list1.link]]
+        text = "Email"
+        url = "mailto:brianccain@gmail.com"
+        new_tab = false # Default, open at same tab
+
+  # Links List #2
+  [[params.links]]
+    [params.links.list2]
+      heading = "Social"
+
+      [[params.links.list2.link]]
+        text = "GitHub"
+        url = "https://github.com/briancain"
+        new_tab = true # new tab
+
+      [[params.links.list2.link]]
+        text = "Itch.io"
+        url = "https://briancain.itch.io/"
+        new_tab = true # new tab
+
+      [[params.links.list2.link]]
+        text = "Twitter"
+        url = "https://twitter.com/brian_cain"
+        new_tab = true # new tab
+
+  # Links List #3
+  [[params.links]]
+    [params.links.list3]
+      heading = "Network"
+
+      [[params.links.list3.link]]
+        text = "Link One"
+        url = "#"
+
+      [[params.links.list3.link]]
+        text = "Link Two"
+        url = "#"
+
+      [[params.links.list3.link]]
+        text = "Link Three"
+        url = "#"
+
+  # The original template is released under the Creative Commons Attribution 3.0 License.
+  # Please keep the original attribution link when using for your own project.
+  # If you'd like to use the template without the attribution, you can check out
+  # the license option via the template author's website: https://onepagelove.com/split
