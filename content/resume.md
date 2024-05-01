@@ -111,7 +111,7 @@ Game Development
 
     * In 2024, I have been learning Unreal Engine 5 (using blue prints and C++),
     but my primary game dev experience has been using Unity in C#.
-    * In 2016 I participated in the Cartnoon Network Game Jam.
+    * In 2016 I participated in the Cartoon Network Game Jam.
 
 Open Source
 :   In 2017 I joined HashiCorp to help build and maintain [Vagrant](https://www.vagrantup.com/),
