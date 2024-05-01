@@ -1,10 +1,14 @@
 +++
 title = "Brian Cain"
-tagline = "Software Engineer"
+tagline = "Software Engineer, Game Developer, Powerlifter"
 +++
 
-This is a work in progress personal site for Brian Cain. 
+Hi, I'm Brian! I'm a highly motivated software engineer with over 10 years in the business. I've worked on a variety of projects around software automation on some of the businesses largest infrastrucutre automation projects like Puppet, Vagrant, and Terraform. In my free time, I love building and designing video games. I'm also a competitive powerlifter and have been competing for over 12 years.
 
-Check out my [resume]({{< ref "resume.md" >}}) for more information about my professional experience.
+I currently live in Portland Oregon for the last 10 years with my cat Qubit. Originally I was born and raised in Kansas City Missouri (and Kansas!). Although my heart lives on the West coast, I will never forget my roots in the Midwest.
 
-I might add a [portfolio page]({{< ref "game-dev.md" >}}) for my game development projects.
+Check out my [resume]({{< ref "resume.md" >}}) for more detailed information about my professional experience.
+
+Check out my [portfolio page]({{< ref "game-dev.md" >}}) for my game development projects.
+
+I am always looking for new and exciting opportunities, so don't hesitate to reach out.
