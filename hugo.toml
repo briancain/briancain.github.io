@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "https://example.com"
+baseURL = "https://briancain.net"
 languageCode = "en-US"
 title = "Brian Cain - Software Engineer"
 theme = "split"
@@ -79,6 +79,19 @@ copyright = "&copy;2024 Brian Cain"
         text = "Twitter"
         url = "https://twitter.com/brian_cain"
         new_tab = true # new tab
+
+  # Links List #3
+  [[params.links]]
+    [params.links.list3]
+      heading = "Links"
+
+      [[params.links.list3.link]]
+        text = "Resume"
+        url = "resume.html"
+
+      [[params.links.list3.link]]
+        text = "Game Dev Portfolio"
+        url = "game-dev.html"
 
   # The original template is released under the Creative Commons Attribution 3.0 License.
   # Please keep the original attribution link when using for your own project.
