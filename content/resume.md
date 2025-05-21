@@ -15,8 +15,13 @@ _Friendly and motivated software developer and leader. Excels in designing intui
 Experience
 ----------
 
+###  **Software Development Engineer 2, @ Amazon Web Services (AWS):** (Onsite, Portland OR)
+2025-Present
+
+Working on the [Amazon Application Recovery Controller](https://aws.amazon.com/application-recovery-controller/) team.
+
 ###  **Staff Software Engineer, @ HashiCorp:** (Remote, Portland OR)
-2017-Present
+2017-2025
 
 [Vagrant](https://www.vagrantup.com/) community maintainer of 4 years. Implementing feature requests, inbound bug reports, enhancements, feedback on pull requests, questions, and more on one of the largest and most-used developer productivity tools.
 
