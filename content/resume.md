@@ -71,14 +71,16 @@ Education
 ## **Masters, Computer Science**; Kansas State University (Manhattan KS)
 2012-2014
 
-* National Science Foundation fellow. Working with the NSF to bring science and technology to underrepresented high schools across Kansas.
-* Worked with the United States Navy through a research grant to build an abstract, model-driven approach to create and manage cyber defense infrastructure. Helped develop an automated system for automatically provisioning virtual machines in the case of a breach through OpenStack and Puppet.
+National Science Foundation fellow. Working with the NSF to bring science and technology to underrepresented high schools across Kansas.
+
+Worked with the United States Navy through a research grant to build an abstract, model-driven approach to create and manage cyber defense infrastructure. Helped develop an automated system for automatically provisioning virtual machines in the case of a breach through OpenStack and Puppet.
 
 ## **BSc, Computer Science**; Kansas State University (Manhattan KS)
 2008-2012
 
-* Association for Computing Machinery [(ACM)](https://www.acm.org/) member. Participated in the ACM programming competition.
-* Very active music member in marching band and jazz bands.
+Association for Computing Machinery [(ACM)](https://www.acm.org/) member. Participated in the ACM programming competition.
+
+Very active music member in marching band and jazz bands.
 
 Volunteer
 ---------
@@ -86,14 +88,16 @@ Volunteer
 ### **Event Volunteer and Game Developer, @ Portland Indie Game Squad:** (Portland OR)
 2016-Present
 
-* Helped as an organizer for various events, a moderator for its various online platforms (discord and twitch) Participated in many game jams, helped other community members with their game dev projects. Team lead for many game jams. https://briancain.itch.io/
-* Proficiency in game engines Unity3D/2D and Godot using C# and GDScript.
+Helped as an organizer for various events, a moderator for its various online platforms (discord and twitch) Participated in many game jams, helped other community members with their game dev projects. Team lead for many game jams. https://briancain.itch.io/
+
+Proficiency in game engines Unity3D/2D and Godot using C# and GDScript.
 
 ### **Programming Coach and Speaker, @ Django Girls:** (Portland OR)
 2016-2019
 
-* Guided and directed groups through a course that taught python and Django with the goal of building a website from scratch
-* Gave presentations to early developers on various aspects of software development
+Guided and directed groups through a course that taught python and Django with the goal of building a website from scratch
+
+Gave presentations to early developers on various aspects of software development
 
 Technical Experience
 --------------------
