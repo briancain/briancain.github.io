@@ -9,6 +9,6 @@ I currently live in Portland, Oregon with my cat Qubit. Originally I was born an
 
 Check out my [resume]({{< ref "resume.md" >}}) for more detailed information about my professional experience.
 
-Check out my [portfolio page]({{< ref "game-dev.md" >}}) for my game development projects.
+I also love to make video games and have some of my favorites over on my [portfolio page]({{< ref "game-dev.md" >}}).
 
 I am always looking for new and exciting opportunities, so don't hesitate to reach out.

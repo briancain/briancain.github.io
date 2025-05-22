@@ -22,7 +22,6 @@ copyright = "&copy;2025 Brian Cain"
   author = "Brian Cain"
   description = "My personal website, portfolio, and social links landing page."
   shareImage = "images/social.jpg"
-  twitterHandle = "briancain"
 
   # Favicon
   favicon = "favicon.ico"
@@ -73,11 +72,6 @@ copyright = "&copy;2025 Brian Cain"
       [[params.links.list2.link]]
         text = "Itch.io"
         url = "https://briancain.itch.io/"
-        new_tab = true # new tab
-
-      [[params.links.list2.link]]
-        text = "Twitter"
-        url = "https://twitter.com/brian_cain"
         new_tab = true # new tab
 
   # Links List #3
