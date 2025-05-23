@@ -85,6 +85,10 @@ Worked with the United States Navy through a research grant to build an abstract
 
 Association for Computing Machinery [(ACM)](https://www.acm.org/) member. Participated in the ACM programming competition.
 
+Took a PhD-level math course as an undergrad that taught the theory behind
+image processing software like Photoshop. We primarily focused on the
+algorithms behind reducing noise in images.
+
 Very active music member in marching band and jazz bands.
 
 Volunteer
