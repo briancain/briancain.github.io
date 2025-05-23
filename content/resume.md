@@ -15,12 +15,12 @@ _Friendly and motivated software developer and leader. Excels in designing intui
 Experience
 ----------
 
-###  **Software Development Engineer 2, @ Amazon Web Services (AWS):** (Onsite, Portland OR)
+##  **Software Development Engineer 2, @ Amazon Web Services (AWS):** (Onsite, Portland OR)
 2025-Present
 
 Working on the [Amazon Application Recovery Controller](https://aws.amazon.com/application-recovery-controller/) team.
 
-###  **Staff Software Engineer, @ HashiCorp:** (Remote, Portland OR)
+##  **Staff Software Engineer, @ HashiCorp:** (Remote, Portland OR)
 2017-2025
 
 [Vagrant](https://www.vagrantup.com/) community maintainer of 4 years. Implementing feature requests, inbound bug reports, enhancements, feedback on pull requests, questions, and more on one of the largest and most-used developer productivity tools.
@@ -48,7 +48,7 @@ Engineering mentor to early software engineers looking to level up their skills 
 Taught a micro-course on how to build a compiler in Golang, and a course on
 distributed computing using Golang and Consul.
 
-### **Software Engineer, @ Puppet Labs:** (Portland OR)
+## **Software Engineer, @ Puppet Labs:** (Portland OR)
 2013-2017
 
 Worked on a handful of projects at Puppet Labs, including the core [Puppet](https://www.puppet.com/docs/puppet/8/puppet_overview) product, facter, PuppetDB, and [Puppet Enterprise](https://www.puppet.com/products/puppet-enterprise).
@@ -90,14 +90,14 @@ Very active music member in marching band and jazz bands.
 Volunteer
 ---------
 
-### **Event Volunteer and Game Developer, @ Portland Indie Game Squad:** (Portland OR)
+## **Event Volunteer and Game Developer, @ Portland Indie Game Squad:** (Portland OR)
 2016-Present
 
 Helped as an organizer for various events, a moderator for its various online platforms (discord and twitch) Participated in many game jams, helped other community members with their game dev projects. Team lead for many game jams. https://briancain.itch.io/
 
 Proficiency in game engines Unity3D/2D and Godot using C# and GDScript.
 
-### **Programming Coach and Speaker, @ Django Girls:** (Portland OR)
+## **Programming Coach and Speaker, @ Django Girls:** (Portland OR)
 2016-2019
 
 Guided and directed groups through a course that taught python and Django with the goal of building a website from scratch
@@ -107,7 +107,7 @@ Gave presentations to early developers on various aspects of software developmen
 Technical Experience
 --------------------
 
-### Game Development
+## Game Development
 
 Ever since I was a kid programming in TI-Basic on my TI-84 graphing calculator making
 space invaders and snake, I've always loved making video games. While living in Portland
@@ -121,7 +121,7 @@ management, and programming roles. I have experience with Unity3D/2D, Godot, and
 but my primary game dev experience has been using Unity in C#.
 * In 2016 I participated in the Cartoon Network Game Jam.
 
-### Open Source
+## Open Source
 
 In 2017 I joined HashiCorp to help build and maintain [Vagrant](https://www.vagrantup.com/),
 and automation tool for building and managing virtual developer environments.
@@ -130,7 +130,7 @@ Prior to that, I had spent 4 years at Puppet Labs, where I was a core contributo
 I love open source software and hope to continue contributing to the software
 community.
 
-### Programming Languages
+## Programming Languages
 
 **Golang:** Lately, Golang has been my main language at work. I love how
 simple and fast it is. We also make heavy use of Protocol Buffers and gRPC,
