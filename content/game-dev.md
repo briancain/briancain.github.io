@@ -2,8 +2,21 @@
 title = "Game Development"
 +++
 
-This page only covers a few games I've made! You can check out the rest on my
-[itch.io page](https://briancain.itch.io/). 
+One of my favorite hobbies is making games! I love the process of taking an idea
+and turning it into something playable. I also love the challenge of learning
+new skills and tools to make those ideas come to life. I have a background in
+computer science, so I have a good understanding of programming and algorithms.
+The cross section of technical and creative is a sweet spot for me.
+There are a lot of lessons to learn about building good software that game
+design teaches you.
+
+These are a few games I've made that I'm most proud of. Each game on this list
+was built during a game jam, which is a short period of time (usually 48 hours all
+the way up to a month) where you build a game from scratch. I would often work
+with a small team of folks who would provide music and sound and art assets to
+help bring the game to life.
+
+You can check out the rest of my games on my [itch.io page](https://briancain.itch.io/). 
 
 ## Nowhere National Park
 
@@ -43,7 +56,7 @@ https://briancain.itch.io/dfrag
 
 When coming up with this game idea, I was inspired by the memories I had
 watching the old family Windows 98 computer defrag hard drives. I remember
-seeing the interface for it as a kid and always wondering what it could be doing.
+seeing the interface for it as a kid and always wondered what it could be doing.
 I ended up using that interface to create a button-sequence game. You have to press
 the correct arrow keys at the right time to properly defrag the disk. If you miss,
 you could risk corrupting the data on the disk!
