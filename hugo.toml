@@ -80,6 +80,10 @@ copyright = "&copy;2025 Brian Cain"
       heading = "Links"
 
       [[params.links.list3.link]]
+        text = "Home"
+        url = "index.html"
+
+      [[params.links.list3.link]]
         text = "Resume"
         url = "resume.html"
 
